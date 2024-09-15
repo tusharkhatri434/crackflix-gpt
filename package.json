@@ -1,7 +1,6 @@
 {
   "name": "crackflix",
   "version": "0.1.0",
-  "homepage": "https://github.com/tusharkhatri434",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.1",
